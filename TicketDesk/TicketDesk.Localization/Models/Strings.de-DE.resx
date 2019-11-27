@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-	<!-- 
+  <!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,143 +59,144 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-		<xsd:element name="root" msdata:IsDataSet="true">
-			<xsd:complexType>
-				<xsd:choice maxOccurs="unbounded">
-					<xsd:element name="metadata">
-						<xsd:complexType>
-							<xsd:sequence>
-								<xsd:element name="value" type="xsd:string" minOccurs="0" />
-							</xsd:sequence>
-							<xsd:attribute name="name" use="required" type="xsd:string" />
-							<xsd:attribute name="type" type="xsd:string" />
-							<xsd:attribute name="mimetype" type="xsd:string" />
-							<xsd:attribute ref="xml:space" />
-						</xsd:complexType>
-					</xsd:element>
-					<xsd:element name="assembly">
-						<xsd:complexType>
-							<xsd:attribute name="alias" type="xsd:string" />
-							<xsd:attribute name="name" type="xsd:string" />
-						</xsd:complexType>
-					</xsd:element>
-					<xsd:element name="data">
-						<xsd:complexType>
-							<xsd:sequence>
-								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-							</xsd:sequence>
-							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-							<xsd:attribute ref="xml:space" />
-						</xsd:complexType>
-					</xsd:element>
-					<xsd:element name="resheader">
-						<xsd:complexType>
-							<xsd:sequence>
-								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-							</xsd:sequence>
-							<xsd:attribute name="name" type="xsd:string" use="required" />
-						</xsd:complexType>
-					</xsd:element>
-				</xsd:choice>
-			</xsd:complexType>
-		</xsd:element>
-	</xsd:schema>
-	<resheader name="resmimetype">
-		<value>text/microsoft-resx</value>
-	</resheader>
-	<resheader name="version">
-		<value>2.0</value>
-	</resheader>
-	<resheader name="reader">
-		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-	</resheader>
-	<resheader name="writer">
-		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-	</resheader>
-	<data name="AssignedTo_Anyone" xml:space="preserve">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AssignedTo_Anyone" xml:space="preserve">
     <value>-- Jeder --</value>
+    <comment> </comment>
   </data>
-	<data name="AssignedTo_Unassigned" xml:space="preserve">
+  <data name="AssignedTo_Unassigned" xml:space="preserve">
     <value>Nicht zugewiesen</value>
   </data>
-	<data name="ConfirmationDoNotMatch" xml:space="preserve">
+  <data name="ConfirmationDoNotMatch" xml:space="preserve">
     <value>Das Passwort und die Passwort-Bestätigung stimmen nicht überein.</value>
   </data>
-	<data name="ConfirmNewPassword" xml:space="preserve">
+  <data name="ConfirmNewPassword" xml:space="preserve">
     <value>Neues Passwort bestätigen</value>
   </data>
-	<data name="ConfirmPassword" xml:space="preserve">
+  <data name="ConfirmPassword" xml:space="preserve">
     <value>Passwort bestätigen</value>
   </data>
-	<data name="CurrentPassword" xml:space="preserve">
+  <data name="CurrentPassword" xml:space="preserve">
     <value>Derzeitiges Passwort</value>
   </data>
-	<data name="Disabled" xml:space="preserve">
+  <data name="Disabled" xml:space="preserve">
     <value>Deaktiviert</value>
   </data>
-	<data name="Disabled_Prompt" xml:space="preserve">
+  <data name="Disabled_Prompt" xml:space="preserve">
     <value>Deaktiviert</value>
   </data>
-	<data name="DisplayName" xml:space="preserve">
+  <data name="DisplayName" xml:space="preserve">
     <value>Anzeigename</value>
   </data>
-	<data name="Email" xml:space="preserve">
+  <data name="Email" xml:space="preserve">
     <value>Email</value>
   </data>
-	<data name="IsDisabled_Description" xml:space="preserve">
+  <data name="IsDisabled_Description" xml:space="preserve">
     <value>Bestimmt, ob das Konto vom Administrator deaktiviert wurde.</value>
   </data>
-	<data name="IsLocked_Description" xml:space="preserve">
+  <data name="IsLocked_Description" xml:space="preserve">
     <value>Bestimmt, ob das Konto gesperrt wurde. Temporäre Sperren entstehen durch ungültige Anmeldeversuche.</value>
   </data>
-	<data name="Locked" xml:space="preserve">
+  <data name="Locked" xml:space="preserve">
     <value>Gesperrt</value>
   </data>
-	<data name="Locked_Prompt" xml:space="preserve">
+  <data name="Locked_Prompt" xml:space="preserve">
     <value>Gesperrt</value>
   </data>
-	<data name="NewConfirmationDoNotMatch" xml:space="preserve">
+  <data name="NewConfirmationDoNotMatch" xml:space="preserve">
     <value>Das neue Passwort und die Passwort-Bestätigung stimmen nicht überein.</value>
   </data>
-	<data name="NewPassword" xml:space="preserve">
+  <data name="NewPassword" xml:space="preserve">
     <value>Neues Passwort</value>
   </data>
-	<data name="Password" xml:space="preserve">
+  <data name="Password" xml:space="preserve">
     <value>Passwort</value>
   </data>
-	<data name="RememberMe" xml:space="preserve">
+  <data name="RememberMe" xml:space="preserve">
     <value>Angemeldet bleiben?</value>
   </data>
-	<data name="SelectList_DefaultItem" xml:space="preserve">
+  <data name="SelectList_DefaultItem" xml:space="preserve">
     <value>-- auswählen --</value>
   </data>
-	<data name="TicketStatus_Active" xml:space="preserve">
+  <data name="TicketStatus_Active" xml:space="preserve">
     <value>Aktiv</value>
   </data>
-	<data name="TicketStatus_Any" xml:space="preserve">
+  <data name="TicketStatus_Any" xml:space="preserve">
     <value>-- jeder --</value>
   </data>
-	<data name="TicketStatus_Closed" xml:space="preserve">
+  <data name="TicketStatus_Closed" xml:space="preserve">
     <value>Geschlossen</value>
   </data>
-	<data name="TicketStatus_MoreInfo" xml:space="preserve">
+  <data name="TicketStatus_MoreInfo" xml:space="preserve">
     <value>Weitere Informationen</value>
   </data>
-	<data name="TicketStatus_Open" xml:space="preserve">
+  <data name="TicketStatus_Open" xml:space="preserve">
     <value>-- Offen --</value>
   </data>
-	<data name="TicketStatus_Resolved" xml:space="preserve">
+  <data name="TicketStatus_Resolved" xml:space="preserve">
     <value>Gelöst</value>
   </data>
-	<data name="UserNameOrEmail" xml:space="preserve">
+  <data name="UserNameOrEmail" xml:space="preserve">
     <value>Benutzername / E-Mail</value>
   </data>
-	<data name="UserName" xml:space="preserve">
+  <data name="UserName" xml:space="preserve">
     <value>Nutzername</value>
   </data>
 </root>

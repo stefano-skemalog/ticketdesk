@@ -137,6 +137,7 @@
   </data>
   <data name="ResetLists" xml:space="preserve">
     <value>Reset Lista</value>
+    <comment> </comment>
   </data>
   <data name="Reset_Confirmation" xml:space="preserve">
     <value>Sicuro di voler resettare tutto?</value>

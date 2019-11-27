@@ -137,6 +137,7 @@
   </data>
   <data name="LogOff" xml:space="preserve">
     <value>Logout</value>
+    <comment> </comment>
   </data>
   <data name="ManageProjects" xml:space="preserve">
     <value>Gestione Progetti</value>

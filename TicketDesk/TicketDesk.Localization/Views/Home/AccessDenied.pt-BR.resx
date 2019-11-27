@@ -128,5 +128,6 @@
   </data>
   <data name="HomeLink" xml:space="preserve">
     <value>Início</value>
+    <comment> </comment>
   </data>
 </root>

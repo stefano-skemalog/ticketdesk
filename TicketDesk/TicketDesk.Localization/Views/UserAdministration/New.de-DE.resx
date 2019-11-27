@@ -122,6 +122,7 @@
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Benutzer erstellen</value>
+    <comment> </comment>
   </data>
   <data name="SaveOption" xml:space="preserve">
     <value>Erstellen</value>

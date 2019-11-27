@@ -138,6 +138,10 @@
   <data name="SaveOption" xml:space="preserve">
     <value>Nuovo Progetto</value>
   </data>
+  <data name="String1" xml:space="preserve">
+    <value />
+    <comment> </comment>
+  </data>
   <data name="Tickets" xml:space="preserve">
     <value>Tickets</value>
   </data>

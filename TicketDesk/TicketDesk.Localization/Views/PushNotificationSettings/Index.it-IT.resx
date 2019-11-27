@@ -125,6 +125,7 @@
   </data>
   <data name="Delivery_Header" xml:space="preserve">
     <value>Providers di invio</value>
+    <comment> </comment>
   </data>
   <data name="DemoMode_Alert" xml:space="preserve">
     <value>&lt;p&gt;TicketDesk sta eseguendo la modalità demo. Le notifiche push sono disabilitate.&lt;/p&gt;

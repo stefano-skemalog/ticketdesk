@@ -122,6 +122,7 @@
   </data>
   <data name="Header" xml:space="preserve">
     <value>Account</value>
+    <comment> </comment>
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Gestisci il tuo account</value>

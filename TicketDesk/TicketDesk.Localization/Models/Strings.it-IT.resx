@@ -119,6 +119,7 @@
   </resheader>
   <data name="AssignedTo_Anyone" xml:space="preserve">
     <value>(Tutti)</value>
+    <comment> </comment>
   </data>
   <data name="AssignedTo_Unassigned" xml:space="preserve">
     <value>(Non Assegnati)</value>

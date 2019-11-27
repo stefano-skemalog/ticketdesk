@@ -122,6 +122,7 @@
   </data>
   <data name="Populated" xml:space="preserve">
     <value>Popolato</value>
+    <comment> </comment>
   </data>
   <data name="PopulateSearchIndex" xml:space="preserve">
     <value>Populate Search Index</value>

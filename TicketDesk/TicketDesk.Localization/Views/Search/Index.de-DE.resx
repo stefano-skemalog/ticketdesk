@@ -122,6 +122,7 @@
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Suchen</value>
+    <comment> </comment>
   </data>
   <data name="OwnedBy" xml:space="preserve">
     <value>&lt;b&gt;Eigentümer:&lt;/b&gt; {0}</value>

@@ -122,6 +122,7 @@
   </data>
   <data name="AssignedTo" xml:space="preserve">
     <value>&lt;b&gt;Assegnato A:&lt;/b&gt; {0}</value>
+    <comment> </comment>
   </data>
   <data name="BackOption" xml:space="preserve">
     <value>Ritorna alla Lista</value>

@@ -125,6 +125,7 @@
   </data>
   <data name="DbIsReady" xml:space="preserve">
     <value>DB Is Ready</value>
+    <comment> </comment>
   </data>
   <data name="Header" xml:space="preserve">
     <value>Current Status:</value>

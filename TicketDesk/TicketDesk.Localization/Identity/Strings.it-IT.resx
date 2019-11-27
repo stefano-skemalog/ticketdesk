@@ -122,6 +122,7 @@
   </data>
   <data name="DisplayName" xml:space="preserve">
     <value>Nome Visualizzato</value>
+    <comment> </comment>
   </data>
   <data name="RoleDescription" xml:space="preserve">
     <value>Descrizione Ruolo</value>

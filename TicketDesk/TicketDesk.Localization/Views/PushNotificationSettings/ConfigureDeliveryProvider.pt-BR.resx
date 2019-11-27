@@ -119,6 +119,7 @@
   </resheader>
   <data name="BackOption" xml:space="preserve">
     <value>Voltar para configurações</value>
+    <comment> </comment>
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Configurações de notificação</value>

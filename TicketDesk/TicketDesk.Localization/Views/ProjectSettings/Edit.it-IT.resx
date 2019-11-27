@@ -140,6 +140,7 @@
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Modifica Progetto</value>
+    <comment> </comment>
   </data>
   <data name="ProjectRequired" xml:space="preserve">
     <value>Seleziona un Progetto</value>

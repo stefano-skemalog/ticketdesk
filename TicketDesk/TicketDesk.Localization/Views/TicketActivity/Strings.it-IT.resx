@@ -135,6 +135,7 @@
   </data>
   <data name="Comment_Label" xml:space="preserve">
     <value>Commenta</value>
+    <comment> </comment>
   </data>
   <data name="Comment_PreviewOption" xml:space="preserve">
     <value>Anteprima</value>

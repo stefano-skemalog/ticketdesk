@@ -128,6 +128,7 @@
   </data>
   <data name="Removed" xml:space="preserve">
     <value>Entfernt</value>
+    <comment> </comment>
   </data>
   <data name="RemoveDemoData" xml:space="preserve">
     <value>Demo-Daten entfernen</value>

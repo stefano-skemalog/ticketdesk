@@ -125,6 +125,7 @@
   </data>
   <data name="FieldMinimumLength" xml:space="preserve">
     <value>il campo {0} deve essere almeno {2} caratteri.</value>
+    <comment> </comment>
   </data>
   <data name="FieldRequired" xml:space="preserve">
     <value>Indicare il campo {0}.</value>

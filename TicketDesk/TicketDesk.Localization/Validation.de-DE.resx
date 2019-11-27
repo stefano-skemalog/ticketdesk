@@ -122,6 +122,7 @@
   </data>
   <data name="FieldMaximumMinimumLength" xml:space="preserve">
     <value>Das Feld {0} muss aus mindestens (2) und maximal {1} Zeichen bestehen.</value>
+    <comment> </comment>
   </data>
   <data name="FieldMinimumLength" xml:space="preserve">
     <value>{0} muss aus mindestens {2} Zeichen bestehen.</value>

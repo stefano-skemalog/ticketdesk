@@ -122,6 +122,7 @@
   </data>
   <data name="Header" xml:space="preserve">
     <value>Geben Sie Ihre Anmeldeinformationen ein</value>
+    <comment> </comment>
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Anmelden</value>

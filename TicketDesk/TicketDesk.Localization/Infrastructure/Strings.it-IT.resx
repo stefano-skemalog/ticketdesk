@@ -119,6 +119,7 @@
   </resheader>
   <data name="GETNotAllowed" xml:space="preserve">
     <value>Richiesta GET non consentita.</value>
+    <comment> </comment>
   </data>
   <data name="MemberExpression" xml:space="preserve">
     <value>L'espressione deve essere un membro</value>

@@ -119,5 +119,6 @@
   </resheader>
   <data name="Configure" xml:space="preserve">
     <value>Configura</value>
+    <comment> </comment>
   </data>
 </root>

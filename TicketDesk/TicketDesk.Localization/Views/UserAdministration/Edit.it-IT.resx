@@ -134,6 +134,7 @@
   </data>
   <data name="DeleteAlert" xml:space="preserve">
     <value>Questa azione non può essere annullata.</value>
+    <comment> </comment>
   </data>
   <data name="DeleteConfirmation" xml:space="preserve">
     <value>Sei sicuro di voler eliminare questo account?</value>

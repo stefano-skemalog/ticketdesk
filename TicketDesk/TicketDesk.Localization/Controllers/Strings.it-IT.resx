@@ -119,6 +119,7 @@
   </resheader>
   <data name="CannotRemoveCurrentUser" xml:space="preserve">
     <value>Non è possibile rimuovere l'utente corrente.</value>
+    <comment> </comment>
   </data>
   <data name="ChangePasswordSuccess" xml:space="preserve">
     <value>La tua password è stata cambiata.</value>

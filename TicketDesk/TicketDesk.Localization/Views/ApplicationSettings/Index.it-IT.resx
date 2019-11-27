@@ -134,6 +134,7 @@
   </data>
   <data name="SaveOption" xml:space="preserve">
     <value>Salva</value>
+    <comment> </comment>
   </data>
   <data name="Security_Header" xml:space="preserve">
     <value>Impostazioni Sicurezza</value>

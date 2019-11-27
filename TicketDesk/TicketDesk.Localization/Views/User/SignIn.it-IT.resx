@@ -125,6 +125,7 @@
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Login</value>
+    <comment> </comment>
   </data>
   <data name="RememberMe" xml:space="preserve">
     <value>Memorizza</value>

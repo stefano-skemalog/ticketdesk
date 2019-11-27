@@ -137,6 +137,7 @@
   </data>
   <data name="Status" xml:space="preserve">
     <value>Stato: {0}</value>
+    <comment> </comment>
   </data>
   <data name="Subject" xml:space="preserve">
     <value>Ticket #{0} : {1}</value>

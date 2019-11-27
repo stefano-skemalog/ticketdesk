@@ -119,6 +119,7 @@
   </resheader>
   <data name="ApiKey" xml:space="preserve">
     <value>ApiKey</value>
+    <comment> </comment>
   </data>
   <data name="ApiKey_Description" xml:space="preserve">
     <value>ApiKey utilizzato per l'autenticazione con SendGrid (questo provider non supporta le credenziali username / password).</value>

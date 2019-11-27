@@ -125,6 +125,7 @@
   </data>
   <data name="OwnedBy" xml:space="preserve">
     <value>&lt;b&gt;In carico a:&lt;/b&gt; {0}</value>
+    <comment> </comment>
   </data>
   <data name="Priority" xml:space="preserve">
     <value>{0} Priorità</value>
