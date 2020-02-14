@@ -283,4 +283,19 @@
   <data name="BackgroundQueueEnabled_Prompt" xml:space="preserve">
     <value>Abilita</value>
   </data>
+  <data name="PushNotificationBroadcastModeAllStaff" xml:space="preserve">
+    <value>Invia a tutti gli Amministratori e Utenti Interni</value>
+  </data>
+  <data name="SendToCustomEmailAddress" xml:space="preserve">
+    <value>Indirizzo Email</value>
+  </data>
+  <data name="SendToCustomEmailAddress_Description" xml:space="preserve">
+    <value>Indirizzo Email. Usato solo nella modalità personalizzata</value>
+  </data>
+  <data name="SendToCustomEmailDisplayName" xml:space="preserve">
+    <value>Nome visualizzato</value>
+  </data>
+  <data name="SendToCustomEmailDisplayName_Description" xml:space="preserve">
+    <value>Nome visualizzato. Usato solo nella modalità personalizzata</value>
+  </data>
 </root>

@@ -126,7 +126,6 @@ namespace TicketDesk.Web.Client.Controllers
                     //do user info updates
                     if (await UpdateUserInfo(user, model))
                     {
-
                         //if any roles other than pending are selected, make sure we remove the pending role from the model first
                         if (tdPendingRole != null)
                         {
@@ -247,6 +246,18 @@ namespace TicketDesk.Web.Client.Controllers
             {
                 AddErrors(result);
             }
+
+            // If the new password is not empty, force changing password for user
+            if (!string.IsNullOrEmpty(model.NewPassword))
+            {
+                string resetToken = await UserManager.GeneratePasswordResetTokenAsync(user.Id);
+                result = await UserManager.ResetPasswordAsync(user.Id, resetToken, model.NewPassword);
+                if (!result.Succeeded)
+                {
+                    AddErrors(result);
+                }
+            }
+
             return result.Succeeded;
         }
 

@@ -310,6 +310,7 @@
     <Content Include="Content\Images\arrow_down.png" />
     <Content Include="Content\Images\arrow_top.png" />
     <Content Include="Content\Images\general-file.png" />
+    <Content Include="Content\Images\skemalog.jpg" />
     <Content Include="Content\Images\TicketDesk-2.5-mobile.png" />
     <Content Include="Content\Images\TicketDesk-2.5.png" />
     <Content Include="Content\PagedList.css" />

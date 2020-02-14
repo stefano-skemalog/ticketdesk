@@ -151,4 +151,7 @@
   <data name="UpdatedBy" xml:space="preserve">
     <value>Modificato da: {0} il {1} {2}</value>
   </data>
+  <data name="New" xml:space="preserve">
+    <value>Nuovo</value>
+  </data>
 </root>
