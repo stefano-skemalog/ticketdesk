@@ -19,8 +19,11 @@ namespace RecoverAttachments
                     if (!Directory.Exists(path))
                         Directory.CreateDirectory(path);
 
-                    File.WriteAllBytes(Path.Combine(path, ta.FileName), ta.FileContents);
-                    Console.WriteLine($"Ticket: {ta.TicketId} - File: {ta.FileName}");
+                    if (!File.Exists(Path.Combine(path, ta.FileName)))
+                    {
+                        File.WriteAllBytes(Path.Combine(path, ta.FileName), ta.FileContents);
+                        Console.WriteLine($"Ticket: {ta.TicketId} - File: {ta.FileName}");
+                    }
                 }
             }
 
