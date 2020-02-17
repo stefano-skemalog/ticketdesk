@@ -35,14 +35,14 @@
                         <label class="control-label col-sm-1 text-right">
                             @Index.Status
                         </label>
-                        <div class="col-sm-2">
+                        <div class="col-sm-1">
                             @Html.DropDownList("TicketStatus", Model.FilterBar.TicketStatusSelectList, Model.FilterBar.StatusFilterHtmlAttributes)
                         </div>
 
                         <label class="control-label col-sm-1 text-right form-control-static">
                             @Index.Owner
                         </label>
-                        <div class="col-sm-2">
+                        <div class="col-sm-3">
                             @Html.DropDownList("Owner", Model.FilterBar.SubmittersSelectList, Model.FilterBar.OwnerFilterHtmlAttributes)
                         </div>
 

@@ -128,6 +128,16 @@ namespace TicketDesk.Web.Client
             bundles.Add(new ScriptBundle("~/bundles/summernote_locale_pt-BR").Include(
                 "~/Scripts/summernote/summernote-pt-BR.js"));
 
+            //Localization bundles it-IT
+            bundles.Add(new ScriptBundle("~/bundles/select2_locale_it-IT").Include(
+                    "~/Scripts/Select2-locales/select2_locale_it.js"));
+            bundles.Add(new ScriptBundle("~/bundles/common_locale_it-IT").Include(
+                    "~/Scripts/jQueryValidate-locales/jquery.validate_locale_it-IT.js",
+                    "~/Scripts/jquery.globalize/cultures/globalize.culture.it-IT.js",
+                    "~/Scripts/ticketdesk/locale_it-IT.js"));
+            bundles.Add(new ScriptBundle("~/bundles/summernote_locale_it-IT").Include(
+                "~/Scripts/summernote/summernote-it-IT.js"));
+
             // Set EnableOptimizations to false for debugging. For more information,
             // visit http://go.microsoft.com/fwlink/?LinkId=301862
 #if (DEBUG)
