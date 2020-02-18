@@ -12,13 +12,13 @@ namespace TicketDesk.Domain.Model
             {
                 hasLists = 
                     listSettings.Any(s => s.ListName == "unassigned") && 
-                    listSettings.Any(s => s.ListName == "assignedToMe");
+                    listSettings.Any(s => s.ListName == "assignedToMe") &&
+                    listSettings.Any(s => s.ListName == "opentickets") &&
+                    listSettings.Any(s => s.ListName == "historytickets");
             }
             return
                 hasLists &&
-                listSettings.Any(s => s.ListName == "mytickets") &&
-                listSettings.Any(s => s.ListName == "opentickets") &&
-                listSettings.Any(s => s.ListName == "historytickets");
+                listSettings.Any(s => s.ListName == "mytickets");
         }
     }
 }
